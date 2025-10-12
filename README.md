@@ -1,10 +1,10 @@
 ## Developers
-| Name           | Role              | Github        | Email                        |
-| -------------- | ----------------- | ------------- | ---------------------------- |
-| Ahmad Mashal   | Back-End Dev      | AhmadMashal1  | aamashal@senecacollege.ca    |
-| Nizon          | DevOps/QA Engineer| Nizon114      | n56@myseneca.ca              |
-| Tajinder Kaur  | Front-End Dev     | tkaur161      | tkaur161@myseneca.ca         |
-
+| Name               | Role              | Github        | Email                        |
+| --------------     | ----------------- | ------------- | ---------------------------- |
+| Ahmad Mashal       | Back-End Dev      | AhmadMashal1  | aamashal@senecacollege.ca    |
+| Nizon              | DevOps/QA Engineer| Nizon114      | n56@myseneca.ca              |
+| Tajinder Kaur      | Front-End Dev     | tkaur161      | tkaur161@myseneca.ca         |
+| Karan Preet Singh  | Tester            | kpsingh19     | kpsingh19@myseneca.ca        |
 ## Project Description
 
 Buying and selling used textbooks and personal items at Seneca is currently fragmented and inefficient. Students often rely on social media groups, scattered chats, or word of mouth, which leads to confusion, missed opportunities, and even safety concerns. Furthermore, there is no dedicated platform designed specifically for Seneca students that integrates campus meeting points across King, Newnham, and Seneca@York, making in-person transactions inconvenient and unorganized.
