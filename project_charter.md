@@ -48,6 +48,16 @@ Seneca Marketplace is a full-stack web application designed exclusively for Sene
 
 ## 4. Deliverables  
 
+1.	Secure login and registration system with Seneca verification.
+2.	Marketplace interface for posting and browsing items.
+3.	Messaging or contact system between buyers and sellers.
+4.	Campus meet-up location selector.
+5.	Fully deployed and tested application.
+
+### 4.1 Gantt Chart
+
+<img width="1832" height="849" alt="image" src="https://github.com/user-attachments/assets/49c39c57-acc1-4710-bae2-76e0eae8b5d5" />
+
 
 
 ---
