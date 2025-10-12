@@ -14,7 +14,18 @@ Seneca Marketplace will centralize this process by offering verified student aut
 ---
 
 ## 2. Overview  
+### 2.1 Project Summary
+Seneca Marketplace is a full-stack web application designed exclusively for Seneca College students to buy and sell used textbooks, electronics, and student essentials in a secure and convenient environment. The platform supports verified student authentication, item listings with images and categories, secure messaging between buyers and sellers, and meet-up coordination at Seneca campus locations. The system aims to improve trust, reduce risk, and provide a centralized marketplace for students.
 
+### 2.2 Project Objectives
+- The main objectives of this project are:
+- Develop a responsive web application accessible from both desktop and mobile browsers.
+- Implement secure user authentication using verified Seneca email credentials.
+- Allow users to post, edit, and manage item listings with descriptions, categories, and photos.
+- Enable buyers to search, sort, and filter listings using custom search criteria.
+- Provide a built-in messaging feature to support safe buyer–seller communication.
+- Include a meet-up scheduling tool using Seneca campus locations (Newnham, King, Seneca@York).
+- Deploy the application using modern cloud hosting and CI/CD tools to ensure scalability and reliability.
 
 ---
 
