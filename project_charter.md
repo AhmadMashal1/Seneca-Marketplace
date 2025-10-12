@@ -19,7 +19,12 @@ Seneca Marketplace will centralize this process by offering verified student aut
 ---
 
 ## 3. Milestones  
-
+1.	Finalize technological stack for front-end, back-end, and database.
+2.	Complete authentication setup using Clerk and Firebase.
+3.	Develop front-end UI with React and Tailwind CSS.
+4.	Implement backend APIs with Node.js and Express.
+5.	Integrate meet-up location selector and item filtering features.
+6.	Conduct full system testing and deployment on Vercel (front-end) and Render (back-end).
 
 ### 3.1 Work Breakdown Structure  
 *(To be completed in Week 10)*
