@@ -19,6 +19,7 @@ Seneca Marketplace will centralize this process by offering verified student aut
 ---
 
 ## 3. Milestones  
+
 1.	Finalize technological stack for front-end, back-end, and database.
 2.	Complete authentication setup using Clerk and Firebase.
 3.	Develop front-end UI with React and Tailwind CSS.
