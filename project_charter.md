@@ -39,7 +39,8 @@ Seneca Marketplace is a full-stack web application designed exclusively for Sene
 6.	Conduct full system testing and deployment on Vercel (front-end) and Render (back-end).
 
 ### 3.1 Work Breakdown Structure  
-*(To be completed in Week 10)*
+<img width="938" height="696" alt="image" src="https://github.com/user-attachments/assets/7cd5261a-1b73-41ec-9f69-4bad312b9be8" />
+
 
 ### 3.2 Requirements Traceability Matrix  
 
