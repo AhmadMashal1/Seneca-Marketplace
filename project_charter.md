@@ -42,17 +42,33 @@ Seneca Marketplace is a full-stack web application designed exclusively for Sene
 *(To be completed in Week 10)*
 
 ### 3.2 Requirements Traceability Matrix  
-*(To be completed in Week 10)*
+
+| Req ID | Requirement                                                                                                         | Del ID | Deliverable                                               | Owner             | Status  |
+|--------|---------------------------------------------------------------------------------------------------------------------|--------|-----------------------------------------------------------|-------------------|---------|
+| REQ01  | Users must register and log in using verified Seneca email credentials                                             | DEL01  | Secure login and registration system with Seneca verification | Ahmad Mashal      | pending |
+| REQ02  | Application must provide a responsive web UI on desktop and mobile                                                 | DEL02  | Marketplace interface for posting and browsing items      | Tajinder Kaur     | pending |
+| REQ03  | Users must be able to create, edit, and delete item listings with title, description, category, price, and photos  | DEL02  | Marketplace interface for posting and browsing items      | Tajinder Kaur     | pending |
+| REQ04  | Buyers must be able to search, sort, and filter listings by category, price, and keywords                          | DEL02  | Marketplace interface for posting and browsing items      | Tajinder Kaur     | pending |
+| REQ05  | System must provide secure messaging between buyers and sellers within the platform                                | DEL03  | Messaging or contact system between buyers and sellers    | Ahmad Mashal      | pending |
+| REQ06  | System must allow users to select a meet-up location from Seneca campuses (Newnham, King, Seneca@York)             | DEL04  | Campus meet-up location selector                          | Tajinder Kaur     | pending |
+| REQ07  | System must be deployed using cloud hosting with a CI/CD pipeline for front-end and back-end                       | DEL05  | Fully deployed and tested application                     | Nizon             | pending |
+| REQ08  | A formal test plan and test execution report must be created for core features (auth, listings, messaging, etc.)   | DEL06  | Test plan and test execution reports                      | Karan Preet Singh | pending |
 
 ---
 
 ## 4. Deliverables  
 
-1.	Secure login and registration system with Seneca verification.
-2.	Marketplace interface for posting and browsing items.
-3.	Messaging or contact system between buyers and sellers.
-4.	Campus meet-up location selector.
-5.	Fully deployed and tested application.
+1. DEL01 – Secure login and registration system with Seneca verification
+
+2. DEL02 – Marketplace interface for posting and browsing items
+
+3. DEL03 – Messaging or contact system between buyers and sellers
+
+4. DEL04 – Campus meet-up location selector
+
+5. DEL05 – Fully deployed and tested application
+
+6. DEL06 – Test plan and test execution reports for core features (auth, listings, messaging, meet-ups, etc.)
 
 ### 4.1 Gantt Chart
 
