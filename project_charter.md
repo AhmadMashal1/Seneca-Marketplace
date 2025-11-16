@@ -80,7 +80,56 @@ Seneca Marketplace is a full-stack web application designed exclusively for Sene
 ---
 
 ## 5. Preliminary Budget  
-*(To be completed in a future workshop)*  
+
+---
+
+### 5.3 Subscriptions and Hosting Costs (Estimated for 500 Users)
+
+These services support development, design, deployment, and cloud hosting.
+
+#### Subscriptions
+| Subscription / Service | Purpose                           | Monthly (CAD) | 4 Months (CAD) |
+|------------------------|-----------------------------------|----------------|-----------------|
+| Cursor Pro             | Developer productivity             | 80             | 320             |
+| Figma Pro              | UI/UX design collaboration         | 80             | 320             |
+| Vercel (Frontend)      | Front-end hosting & CI/CD pipeline | 20             | 80              |
+| Hostinger Domain       | Domain name (1 year, $9.99 USD)    | N/A            | **14**          |
+
+---
+
+#### AWS Services (Backend, Auth, Storage, Scaling)  
+Estimated for **500 active users**.
+
+| AWS Service           | Purpose                                   | 4-Month Cost (CAD) |
+|-----------------------|---------------------------------------------|----------------------|
+| Amazon ECS            | Backend container orchestration             | 120                  |
+| Amazon ECR            | Docker image storage                         | 24                   |
+| Amazon Cognito        | User authentication (500 users = free)       | 0                    |
+| Amazon S3             | Storage for listing images & metadata        | 16                   |
+| AWS Load Balancer     | High availability & traffic routing          | 108                  |
+| **Total AWS**         | —                                           | **268**              |
+
+---
+
+### 5.4 Overall Cost Summary
+
+| Category            | Cost (CAD) |
+|---------------------|------------|
+| Subscriptions       | 720        |
+| Vercel Hosting      | 80         |
+| AWS Services        | 268        |
+| Domain (Hostinger)  | 14         |
+| **Total (4 Months)**| **1,082 CAD** |
+
+---
+
+### 5.5 Final Cost With Contingency
+
+| Description               | Amount (CAD) |
+|---------------------------|--------------|
+| Total Estimated Cost      | 1,082        |
+| Contingency (10%)         | 108.2        |
+| **Final Project Cost**    | **1,190 CAD** |
 
 ---
 
