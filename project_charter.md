@@ -88,7 +88,7 @@ This academic project follows an Agile development approach with **2-week sprint
 
 ---
 
-### Project Team (No Personnel Charges)
+### 5.1 Project Team (No Personnel Charges)
 
 | **Name**            | **Role**               | **GitHub**     | **Email**                  |
 |---------------------|------------------------|----------------|----------------------------|
@@ -98,6 +98,16 @@ This academic project follows an Agile development approach with **2-week sprint
 | Karan Preet Singh   | Tester                 | kpsingh19      | kpsingh19@myseneca.ca      |
 
 Total personnel cost: **0 CAD**
+
+---
+
+### 5.2 Hardware
+
+All developers are using their own personal laptops.
+Therefore, hardware cost is:
+
+**0 CAD**
+
 ---
 
 ### 5.3 Subscriptions and Hosting Costs (Estimated for 500 Users)
