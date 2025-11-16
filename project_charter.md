@@ -82,6 +82,23 @@ Seneca Marketplace is a full-stack web application designed exclusively for Sene
 ## 5. Preliminary Budget  
 
 ---
+### 5.0 Budget Context - Project Duration & Sprints
+
+This academic project follows an Agile development approach with **2-week sprints**. Over a **16-week** total duration, the team will complete **8 sprints**. Since all development work is completed by students as part of the course, the sprint structure impacts timeline but **does not result in personnel costs**.
+
+---
+
+### Project Team (No Personnel Charges)
+
+| **Name**            | **Role**               | **GitHub**     | **Email**                  |
+|---------------------|------------------------|----------------|----------------------------|
+| Ahmad Mashal        | Back-End Developer     | AhmadMashal1   | aamashal@senecacollege.ca  |
+| Nizon               | DevOps / QA Engineer   | Nizon114       | n56@myseneca.ca            |
+| Tajinder Kaur       | Front-End Developer    | tkaur161       | tkaur161@myseneca.ca       |
+| Karan Preet Singh   | Tester                 | kpsingh19      | kpsingh19@myseneca.ca      |
+
+Total personnel cost: **0 CAD**
+---
 
 ### 5.3 Subscriptions and Hosting Costs (Estimated for 500 Users)
 
