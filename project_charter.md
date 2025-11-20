@@ -160,7 +160,22 @@ Estimated for **500 active users**.
 ---
 
 ## 6. Organization and Stakeholders  
-*(To be completed in a future workshop)*  
+
+### Stakeholder Analysis Matrix
+![WhatsApp Image 2025-11-19 at 20 04 36_4752f50f](https://github.com/user-attachments/assets/664b719a-6f57-416f-a4f3-669fee2d9361)
+
+### Power–Interest Grid
+
+| Stakeholder                             | Role / Description                               | Power | Interest | Quadrant           | Attitude Toward Project                                                            |
+| --------------------------------------- | ------------------------------------------------ | ----- | -------- | ------------------ | ---------------------------------------------------------------------------------- |
+| Ahmad Mashal                        | Project Manager & Back-End Lead                  | High  | High     | Manage Closely | Supportive (actively driving development)                                      |
+| Nizon                               | DevOps / QA Engineer                             | High  | Low      | Keep Satisfied | Supportive (ensures smooth deployment/testing)                                 |
+| Seneca Students (End Users)         | Buyers & Sellers on the platform                 | Low   | High     | Keep Informed  | Supportive / Neutral (benefit from platform but adoption depends on usability) |
+| Seneca IT Department                | Overseeing authentication & security compliance  | High  | Low      | Keep Satisfied | Neutral (focus on policy compliance, may approve or restrict features)         |
+| Front-End Developer (Tajinder Kaur) | Builds user interface and marketplace experience | Low   | High     | Keep Informed  | Highly Supportive (directly working on UI/UX)                                  |
+| Karan Preet Singh                   | Tester & Quality Reviewer                        | Low   | Low      | Monitor        | Supportive (ensures quality but has lower project influence)                   |
+
+
 
 ---
 
