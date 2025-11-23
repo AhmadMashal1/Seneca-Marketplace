@@ -175,7 +175,18 @@ Estimated for **500 active users**.
 | Front-End Developer (Tajinder Kaur) | Builds user interface and marketplace experience | Low   | High     | Keep Informed  | Highly Supportive (directly working on UI/UX)                                  |
 | Karan Preet Singh                   | Tester & Quality Reviewer                        | Low   | Low      | Monitor        | Supportive (ensures quality but has lower project influence)                   |
 
+### Communications Plan
 
+| Information                  | Owner                            | Audience                                              | Schedule        | Channel                          |
+|------------------------------|-----------------------------------|--------------------------------------------------------|------------------|-----------------------------------|
+| Project Status & Sprint Progress | Project Manager (Ahmad Mashal)    | Full Development Team, QA Tester, DevOps Engineer      | Biweekly         | In-Person Meeting / MS Teams Notes |
+| QA Status & Defect Summary  | QA Tester (Karan Preet Singh)     | Project Manager, DevOps Engineer, Front-End Developer  | Weekly           | MS Teams + GitHub Issues Dashboard |
+| Deployment & CI/CD Status   | DevOps Engineer (Nizon)           | Project Manager, QA Tester, Front-End Developer        | Biweekly         | Slack Updates + GitHub Actions Logs |
+| UI/UX Progress & Usability Notes | Front-End Developer (Tajinder Kaur) | Project Manager, QA Tester, Back-End Developer         | Weekly           | Figma Links + MS Teams             |
+| Security / Authentication Compliance | Seneca IT Department              | Project Manager                                         | Per Milestone    | Email (Formal Documentation Packet) |
+| End-User Feedback Summary   | UX/Front-End Team                 | Project Manager & Development Team                      | Per Release      | Google Forms Report + Email        |
+| System Stability & Performance Report | Project Manager / DevOps Engineer | Full Team                                               | Monthly          | MS Teams + PDF Summary             |
+| Project Risk Register Update | Project Manager (Ahmad Mashal)    | Entire Project Team                                     | Monthly          | MS Teams Meeting + Shared Document |
 
 ---
 
