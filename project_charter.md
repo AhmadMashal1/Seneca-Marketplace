@@ -191,4 +191,13 @@ Estimated for **500 active users**.
 ---
 
 ## 7. Risks, Assumptions, and Constraints  
-*(To be completed in a future workshop)*  
+List with a set of risks, at least six, that have been identified for our project.
+
+| **Risk ID** | **Risk Description** | **Category** | **Likelihood** | **Impact** | **Risk Level** | **Mitigation Strategy** |
+|-------------|-----------------------|--------------|----------------|------------|----------------|--------------------------|
+| **R01** | Authentication failure due to issues integrating Clerk and Firebase | Technical | Medium | High | **High** | Test authentication early, create fallback error handling, maintain proper API documentation |
+| **R02** | Deployment pipeline failures on Vercel/Render causing delays or downtime | DevOps | Medium | High | **High** | Implement CI/CD checks, perform deployment tests each sprint, keep rollback versions ready |
+| **R03** | Front-end and back-end integration delays due to API mismatches or unclear requirements | Schedule | Medium | High | **High** | Weekly integration checkpoints, shared Postman collections, maintain clear API contracts |
+| **R04** | Data privacy or security compliance issues with Seneca IT policies | Compliance | Low | High | **High** | Follow Seneca authentication rules, ensure secure data handling, get approvals early |
+| **R05** | Storage or image upload issues (S3 limits, large files, slow performance) | Technical | Medium | Medium | **Medium** | Enforce file size limits, compress images, implement automatic cleanup for old listings |
+| **R06** | Insufficient testing leading to bugs in messaging, listing, or meet-up features | Quality | Medium | Medium | **Medium** | Build test cases early, dedicate a full sprint to QA, run automated tests for APIs |
