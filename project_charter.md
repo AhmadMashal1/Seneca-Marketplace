@@ -201,3 +201,7 @@ List with a set of risks, at least six, that have been identified for our projec
 | **R04** | Data privacy or security compliance issues with Seneca IT policies | Compliance | Low | High | **High** | Follow Seneca authentication rules, ensure secure data handling, get approvals early |
 | **R05** | Storage or image upload issues (S3 limits, large files, slow performance) | Technical | Medium | Medium | **Medium** | Enforce file size limits, compress images, implement automatic cleanup for old listings |
 | **R06** | Insufficient testing leading to bugs in messaging, listing, or meet-up features | Quality | Medium | Medium | **Medium** | Build test cases early, dedicate a full sprint to QA, run automated tests for APIs |
+
+### Risk Evaluation Chart
+
+<img width="1000" height="742" alt="Risk_evaluation_chart" src="https://github.com/user-attachments/assets/5b5dce48-bc28-4e95-ba07-79ae2ffa9382" />
