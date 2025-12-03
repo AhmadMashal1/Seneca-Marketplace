@@ -72,9 +72,9 @@ Seneca Marketplace is a full-stack web application designed exclusively for Sene
 6. DEL06 – Test plan and test execution reports for core features (auth, listings, messaging, meet-ups, etc.)
 
 ### 4.1 Gantt Chart
-<img width="1836" height="779" alt="image" src="https://github.com/user-attachments/assets/98072082-2030-4eff-89c7-53307d86b614" />
-
-The Critical Path is the longest sequence of dependent activities that determines the minimum time required to complete the project. Any delay in these tasks will directly delay the overall project completion date. The Critical Path for this project includes: Define Requirements → Design UI Mockups → Setup Project Environment → Implement Authentication → Develop Front-End → Integrate Meet-Up Selector → Add Search & Filter → Testing Phase → Deployment and Final Review. These tasks are highlighted in red in the Gantt chart.
+<img width="1216" height="558" alt="image" src="https://github.com/user-attachments/assets/a09e997a-9272-4ead-9a1e-19c75d16183c" />
+The red bars shows the critical path. The arrows represent the dependencies. And, the number near the bars represent the number of days for the tasks.
+The Critical Path is the longest sequence of dependent activities that determines the minimum time required to complete the project. Any delay in these tasks will directly delay the overall project completion date. The critical path for the project is: Project Planning → System Design → Back-End Development → Integration → Testing & QA → Deployment, because any delay in these phases directly delays the entire project.
 
 ---
 
